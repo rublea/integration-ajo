@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+	<filter root="/home/groups/a/ajo-administrators" mode="merge"/>
+	<filter root="/libs/cq/core/content/nav/tools/cloudservices/analyticsconnector" mode="merge"/>
+	<filter root="/conf" mode="merge">
+		<include pattern="/conf/rep:policy(/.*)?"/>
+	</filter>
+</workspaceFilter>
